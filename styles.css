@@ -1,2 +1,19 @@
 Body{
-  font-family
+  font-family:Arial,sans-=serif;
+  margin:0;
+  padding:0;
+  background-color:#f4f4f4;
+}
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden:
+}
+header{
+  background:#4CAF50;
+  color:#fff;
+  padding:20px0;
+  border-bottom:#3e8e41 3px solid;
+  position:relatiive;
+}
+  
