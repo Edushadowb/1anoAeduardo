@@ -7,7 +7,7 @@ Body{
 .container{
   width:80%;
   margin:auto;
-  overflow:hidden:
+  overflow:hidden;
 }
 header{
   background:#4CAF50;
@@ -64,3 +64,4 @@ header{
     padding:10px;
     border-left:#4CAF50 5px solid;
     color: #333;
+  }
